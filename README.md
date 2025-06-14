@@ -16,3 +16,18 @@ A hands‑on Selenium WebDriver learning framework built with Java and TestNG. D
 - Version control: **Git & GitHub**
 
 ---
+
+## 🧪 Topics Covered
+
+- ✅ Browser setup and basic navigation  
+- 🔍 Locating elements: ID, name, XPath, CSS selector  
+- ⏳ Waiting strategies: implicit, explicit  
+- 🧩 Form interactions: buttons, inputs, dropdowns, checkboxes  
+- 🪟 Window/tab management and alerts  
+- 🧠 Advanced user actions: hover, drag & drop, keyboard events  
+- 📷 Screenshots & exception handling  
+- ⚙️ TestNG integration: annotations, assertions, execution suite  
+- 🧵 Parallel execution using TestNG threads  
+- 🔁 Cross-browser testing with Chrome, Firefox support
+
+---
